@@ -1,4 +1,4 @@
-﻿<Window x:Class="DXGrid_CustomizingFilterDropdown.Window1" 
+<Window x:Class="DXGrid_CustomizingFilterDropdown.Window1" 
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
