@@ -3,16 +3,11 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
         Title="Window1" Height="300" Width="535">
-    <Grid>
-
-        <dxg:GridControl x:Name="grid" ItemsSource="{Binding AccountList}">
-            <dxg:GridControl.Columns>
-                <dxg:GridColumn FieldName="UserName"/>
-                <dxg:GridColumn FieldName="RegistrationDate" FilterPopupMode="List"/>
-            </dxg:GridControl.Columns>
-            <dxg:GridControl.View>
-                <dxg:TableView AutoWidth="True" ShowFilterPopup="TableView_ShowFilterPopup" />
-            </dxg:GridControl.View>
-        </dxg:GridControl>
-    </Grid>
+    <dxg:GridControl x:Name="grid">
+        <dxg:GridColumn FieldName="UserName"/>
+        <dxg:GridColumn FieldName="RegistrationDate" FilterPopupMode="List"/>
+        <dxg:GridControl.View>
+            <dxg:TableView AutoWidth="True" ShowFilterPopup="TableView_ShowFilterPopup"/>
+        </dxg:GridControl.View>
+    </dxg:GridControl>
 </Window>
