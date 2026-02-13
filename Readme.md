@@ -30,7 +30,7 @@ This example shows how to replace the **Registration Date** column's drop-down f
 * [WPF Data Grid - How to Apply a Custom Filter Condition](https://github.com/DevExpress-Examples/how-to-implement-custom-filtering-e1167)
 * [WPF Data Grid - Create a Custom Drop-down Filter](https://github.com/DevExpress-Examples/how-to-create-a-custom-filter-dropdown-e1616)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-change-drop-down-filter-items&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-change-drop-down-filter-items&~~~was_helpful=no)
 
